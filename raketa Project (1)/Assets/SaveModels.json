@@ -1,0 +1,25 @@
+{
+    "isBuy": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "DamageAmount": 40,
+    "ScoreSaves": 7846,
+    "priceScores": 160000
+}
